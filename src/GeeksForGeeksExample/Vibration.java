@@ -1,3 +1,5 @@
+package GeeksForGeeksExample;
+
 public class Vibration implements MobileAlertState {
     @Override
     public void alert(AlertStateContext ctx) {
